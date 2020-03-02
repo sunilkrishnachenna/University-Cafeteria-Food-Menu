@@ -1,0 +1,20 @@
+Coca-Cola Drinks RM 3.00
+Pepsi RM 4.00
+Red Bull RM 4.00
+Sprite RM 4.00
+Water RM 3.00
+Nescafe RM 7.50
+Fanta RM 5.00
+7-Up RM 4.50
+Mochachino Coffee RM 7.50
+Macchiato Coffee RM 4.00
+Milk RM 7.00
+Tea Simba RM .50
+Coffee Black Tea RM 5.50
+Espresso Coffee RM 4.50
+Latte Coffee RM 3.50
+Ahmad Tea RM 6.50
+Lipton Tes RM 3.00
+Cold Coffee RM 5.00
+Americano Coffee RM 8.50
+Caramel Coffee  RM 4.00
